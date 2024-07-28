@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    width:100%;
+}
+header {
+    width:100%;
+}
+.nav-not-current {
+    color: rgb(156, 174, 40) !important;
+}
+main {
+    margin-top: 250px;
+}
